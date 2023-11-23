@@ -1,0 +1,1 @@
+Toto sa na github dostane lebo toto nie je v gitignore
